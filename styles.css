@@ -1,0 +1,70 @@
+body
+{
+    background-color: white;
+    color: #242424;
+    line-height: 1.5;
+    font-family: Georgia, Cambria, Times New Roman, Times, serif;;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+}
+
+h1, h2
+{
+    font-family: SchnyderS demi, Garamond, serif;
+    color: var(--accent-color);
+    font-size: 40px;
+    line-height: 1.3;
+}
+
+h2
+{
+    font-size: 20px;
+}
+
+img
+{
+    width: 600px;
+}
+
+.container
+{
+    width: 600px;
+    margin: 10px auto;
+}
+
+.rtxpic, .support
+{
+    font-size: 12px;
+}
+
+.update
+{
+    font-size: 12px;
+    color: #9d9393;
+    font-family: Graphik, Helvetica;
+}
+
+.publish
+{
+    font-size: 12px;
+    color: #9d9393;
+    font-family: Graphik, Helvetica;
+    position: relative;
+    left: 460px;
+}
+
+.author
+{
+    text-align: left;
+    font-size: 14px;
+}
+
+a, a:visited, a:active
+{
+    color: rgb(157, 94, 204);
+}
+
+a:hover
+{
+    text-decoration: none;
+}
